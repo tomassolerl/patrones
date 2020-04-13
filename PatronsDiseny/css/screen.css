@@ -1,3 +1,9 @@
+body {
+  margin:0 50px;
+  font: 75% "Trebuchet MS", Verdana, sans-serif;
+  min-width: 690px;
+}
+
 footer {
   display: block;
   text-align: justify;

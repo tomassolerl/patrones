@@ -14,3 +14,8 @@ footer {
   filter:alpha(opacity=70);
   clear:both;
 }
+
+.imagen_singleton {
+  width: 30%;
+  display: block;
+}

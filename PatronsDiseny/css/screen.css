@@ -14,8 +14,29 @@ footer {
   filter:alpha(opacity=70);
   clear:both;
 }
-
+body{
+  background-color: #E1C3FA;
+  padding:10px;
+}
+li{
+  font-style: italic;
+}
+#mainmenu{
+  display: block;
+width: 11%;
+ left: auto;
+  background-color: #D098FE;
+}
+h3{
+  background-color: #8A80FF;
+  text-align: center;
+  width: 8%;
+}
 .imagen_singleton {
-  width: 30%;
+  width: 50%;
+  display: block;
+}
+.imagen_prototype {
+  width: 50%;
   display: block;
 }
